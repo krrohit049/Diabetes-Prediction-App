@@ -1,3 +1,6 @@
+## LIVE DEMO :- https://diabetes-prediction61.streamlit.app/
+
+
 # 🩺 Diabetes Prediction App
 
 A **user-friendly, interactive web application** built with **Streamlit** to predict the risk of **Diabetes** based on personal health data. The app allows users to input their health details, calculates BMI automatically, and provides an easy-to-understand risk level. It also visually compares user health parameters with normal ranges.
